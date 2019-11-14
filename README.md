@@ -41,18 +41,18 @@
 
 (1) Generate a python script for name mapping
 ```
-make
-./cad039 <map_in.json> <python_script.py> 
+$ make
+$ ./cad039 <map_in.json> <python_script.py> 
 ```
 Or generate python scrips for 8 test cases
 ```
-make
-bash run.sh
+$ make
+$ bash run.sh
 ```
 
 (2) Use python script to map from <name_in.json> to <map_out.json>
 ```
-python3 <python_script.py> <name_in.json> <map_out.json>
+$ python3 <python_script.py> <name_in.json> <map_out.json>
 ```
 
 ## Verify
@@ -60,6 +60,6 @@ python3 <python_script.py> <name_in.json> <map_out.json>
 For comparing if two json file contains the same mapping.
 Usage:
 ```
-python3 script/verify.py <file1.json> <file2.json>
+$ python3 script/verify.py <file1.json> <file2.json>
 ```
 You will see Success! or Fail!
