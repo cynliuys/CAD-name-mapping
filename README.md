@@ -2,7 +2,7 @@
 2018 ICCAD CONTEST ProblemA  Smart EC : Program-Building for Name Mapping
 
 * Team Number: cada039
-* This project was [Cynthia Liu](https://github.com/CynthiaYLiu), and [Chou Yun](https://github.com/TeresaChou).
+* This project was developed by [Cynthia Liu](https://github.com/CynthiaYLiu), and [Chou Yun](https://github.com/TeresaChou).
 * You can see our algorithm aproach in ./report
 
 
